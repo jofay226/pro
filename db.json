@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Elon",
+            "lastName": "Musk",
+            "email": "elon@gmail.com",
+            "salary": "10",
+            "gender": "male"
+        },
+        {
+            "id": 2,
+            "firstName": "El",
+            "lastName": "Mu",
+            "email": "el@gmail.com",
+            "salary": "20",
+            "gender": "famale"
+        }
+    ]
+}
